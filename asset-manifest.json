@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/discgolf-in-the-bag/static/css/main.ffd883d5.chunk.css",
-    "main.js": "/discgolf-in-the-bag/static/js/main.d27127b7.chunk.js",
-    "main.js.map": "/discgolf-in-the-bag/static/js/main.d27127b7.chunk.js.map",
-    "runtime-main.js": "/discgolf-in-the-bag/static/js/runtime-main.7a80616f.js",
-    "runtime-main.js.map": "/discgolf-in-the-bag/static/js/runtime-main.7a80616f.js.map",
+    "main.css": "/discgolf-in-the-bag/static/css/main.4ba284c3.chunk.css",
+    "main.js": "/discgolf-in-the-bag/static/js/main.ae0431ab.chunk.js",
+    "main.js.map": "/discgolf-in-the-bag/static/js/main.ae0431ab.chunk.js.map",
+    "runtime-main.js": "/discgolf-in-the-bag/static/js/runtime-main.3fab87b5.js",
+    "runtime-main.js.map": "/discgolf-in-the-bag/static/js/runtime-main.3fab87b5.js.map",
     "static/css/2.31461e4f.chunk.css": "/discgolf-in-the-bag/static/css/2.31461e4f.chunk.css",
-    "static/js/2.3d746fef.chunk.js": "/discgolf-in-the-bag/static/js/2.3d746fef.chunk.js",
-    "static/js/2.3d746fef.chunk.js.map": "/discgolf-in-the-bag/static/js/2.3d746fef.chunk.js.map",
-    "static/js/3.c9c20a60.chunk.js": "/discgolf-in-the-bag/static/js/3.c9c20a60.chunk.js",
-    "static/js/3.c9c20a60.chunk.js.map": "/discgolf-in-the-bag/static/js/3.c9c20a60.chunk.js.map",
+    "static/js/2.f474055e.chunk.js": "/discgolf-in-the-bag/static/js/2.f474055e.chunk.js",
+    "static/js/2.f474055e.chunk.js.map": "/discgolf-in-the-bag/static/js/2.f474055e.chunk.js.map",
+    "static/js/3.72f56a5b.chunk.js": "/discgolf-in-the-bag/static/js/3.72f56a5b.chunk.js",
+    "static/js/3.72f56a5b.chunk.js.map": "/discgolf-in-the-bag/static/js/3.72f56a5b.chunk.js.map",
     "index.html": "/discgolf-in-the-bag/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/discgolf-in-the-bag/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.ffd883d5.chunk.css.map": "/discgolf-in-the-bag/static/css/main.ffd883d5.chunk.css.map",
-    "static/js/2.3d746fef.chunk.js.LICENSE.txt": "/discgolf-in-the-bag/static/js/2.3d746fef.chunk.js.LICENSE.txt",
+    "static/css/main.4ba284c3.chunk.css.map": "/discgolf-in-the-bag/static/css/main.4ba284c3.chunk.css.map",
+    "static/js/2.f474055e.chunk.js.LICENSE.txt": "/discgolf-in-the-bag/static/js/2.f474055e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/discgolf-in-the-bag/static/media/dg-bg.9d47e462.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a80616f.js",
+    "static/js/runtime-main.3fab87b5.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.3d746fef.chunk.js",
-    "static/css/main.ffd883d5.chunk.css",
-    "static/js/main.d27127b7.chunk.js"
+    "static/js/2.f474055e.chunk.js",
+    "static/css/main.4ba284c3.chunk.css",
+    "static/js/main.ae0431ab.chunk.js"
   ]
 }
