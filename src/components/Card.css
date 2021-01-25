@@ -1,0 +1,62 @@
+.card {
+  min-width: 400px;
+  box-shadow: inset 0 200000px rgb(0 0 0 / 85%);
+}
+
+.card h2,
+.card h1,
+.card p {
+  color: #fff;
+  text-shadow: 2px 2px 5px #111;
+}
+
+.card h1 {
+  font-size: 3rem;
+}
+
+.card h2 {
+  font-size: 2rem;
+}
+
+.card img {
+  width: 250px;
+  height: 250px;
+}
+
+.flight-numbers {
+  background-color: rgba(80, 238, 40, 0.411);
+  padding: 15px;
+  font-size: 2rem;
+  color: #fff;
+}
+
+p.flight-numbers {
+  color: #fff;
+  text-shadow: 2px 2px 5px #111;
+}
+
+.disc-type {
+  font-size: 1.2rem;
+}
+
+/*For mobile*/
+
+@media (max-width: 600px) {
+  .card {
+    min-width: 300px;
+  }
+  .card img {
+    width: 150px;
+    height: 150px;
+  }
+  .card h1 {
+    font-size: 2rem;
+  }
+
+  .card h2 {
+    font-size: 1rem;
+  }
+  .flight-numbers {
+    font-size: 1rem;
+  }
+}

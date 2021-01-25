@@ -1,0 +1,11 @@
+.card-list {
+    min-height: 900px;
+}
+
+/*For mobile*/
+
+@media (max-width: 600px) {
+    .card-list {
+        min-height: 500px;
+    }
+}
